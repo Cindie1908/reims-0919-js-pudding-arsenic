@@ -1,14 +1,11 @@
 .PresOfFood{
     width: 100%;
-    background-image:url(https://zupimages.net/up/19/44/1czf.jpg);
-    background-size:cover;
-    background-repeat:no-repeat;
-    background-position:center;
+    background:black;
 }
 
 .PresOfFood h2 {
     text-align: center;
-    margin-top:1%;
+    margin-top:6%;
     margin-bottom:1%;
     color:rgb(224, 205, 30);
     font-family: 'Bigshot One', cursive;
@@ -55,11 +52,13 @@
 
 @media only screen and (max-width: 415px) {
     .PresOfFood h2 {
-        font-size: 1.7em;
+        font-family: 'Rock Salt', cursive;
+        font-size: 1em;
         padding: 0.5em;
+        color:white;
     }
     .titleShow{
-        color: rgb(224, 205, 30);
+        color: white;
        }	
     .align p{
         font-size:1em;
@@ -67,5 +66,8 @@
     .orga{
         width:90%;
         margin-left:5%;
+    }
+    .PresOfFood{
+        background:black;
     }
 }

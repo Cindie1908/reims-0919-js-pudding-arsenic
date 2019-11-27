@@ -10,7 +10,7 @@ function Home () {
 			<div className="Home">
 				<div>
 					<Title />
-					<img className="séparateur" src="https://zupimages.net/up/19/44/l8sr.png" alt="séparateur"></img>
+					<img className="séparateur" src="https://zupimages.net/up/19/48/5efd.jpg" alt="séparateur"></img>
 					{/* <ImageBand /> */}
 				</div>
 				
@@ -22,7 +22,7 @@ function Home () {
 							<figure>
 								<img
 								className="imageCocktail"
-								src="https://zupimages.net/up/19/46/yv37.jpg"
+								src="https://zupimages.net/up/19/48/8ijg.jpg"
 								alt="cocktail"
 								></img>
 							</figure> 
@@ -34,7 +34,7 @@ function Home () {
 								{<figure>
 									 <img
 									className="imagePizza"
-									src="https://www.restaurant-diroma.com/apps/uploads/2018/10/pizza01-300x200.jpg"
+									src="https://zupimages.net/up/19/48/cvku.gif"
 									alt="pizza"
 									></img> 
 								</figure>}

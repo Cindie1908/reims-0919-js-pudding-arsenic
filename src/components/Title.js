@@ -7,7 +7,7 @@ function Title() {
 			<div className="Title">
 				<img
 					className="revolver"
-					src="https://zupimages.net/up/19/45/791m.png"
+					src="https://zupimages.net/up/19/48/1o5a.jpg"
 					alt="Revolver"
 				></img>
 				<div Id="TitleName" >

@@ -1,6 +1,6 @@
 import React from "react"
 import "./ShowIngredients/ShowIngredients.css"
-import Title from './Title'
+import Logo from './Logo'
 //import ImageBand from './ImageBand'
 import ShowPateList from "./ShowIngredients/ShowPateList"
 import ShowCheeseList from "./ShowIngredients/ShowCheeseList"
@@ -18,7 +18,7 @@ function PresOfFood (){
     let history=useHistory()
     return(
         <div className="PresOfFood">
-            <Title />
+            <Logo />
             <h2 className="titleShow">Votre PIZZA de la mort :</h2>
 			<div className="orga">
                 <div className="align">

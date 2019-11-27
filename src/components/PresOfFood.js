@@ -1,6 +1,6 @@
 import React from "react";
 import "./ShowIngredients/ShowIngredients.css";
-import Title from "./Title";
+import Logo from "./Logo";
 import ShowIngredientList from "./ShowIngredients/ShowIngredientList";
 import "./PresOfFood.css";
 import { useHistory } from "react-router-dom";
@@ -14,7 +14,7 @@ function PresOfFood (){
     let history=useHistory()
     return(
         <div className="PresOfFood">
-            <Title />
+            <Logo />
             <h2 className="titleShow">Votre COCKTAIL de la mort :</h2>
             <div className="orga">
                 <div className="align">
